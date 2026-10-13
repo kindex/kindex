@@ -6,7 +6,7 @@ I take ownership of technical outcomes: architecture, delivery and the hard deci
 
 ## Selected work
 
-| | |
+| Project | What I did |
 |---|---|
 | **[TaleCheck](https://talecheck.com)** (2026–) | Static analysis for fiction — "ESLint for novels". An LLM extracts the story's world model, deterministic rules find forgotten characters and unfired Chekhov's guns. Built solo with Claude Code: ~2,300 commits in under 3 months, live with paid subscriptions. TypeScript, NestJS, BullMQ, PostgreSQL, Anthropic API |
 | **[Roach Racing Club](https://roachracingclub.com)** (2021–) | Web3 racing game from scratch: smart contracts, tokenomics, custom real-time WebGL/Three.js engine for 10 live players, biologically-inspired race simulation |
