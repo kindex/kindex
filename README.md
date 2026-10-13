@@ -18,8 +18,6 @@ I take ownership of technical outcomes: architecture, delivery and the hard deci
 ## Old code worth a look
 
 - [Steel](https://github.com/kindex/Steel) — 3D game engine from scratch, C++ / OpenGL
-- [moora](https://github.com/kindex/moora) — RTS prototype, C# / Silverlight
-- [voxel](https://github.com/kindex/voxel) — voxel engine, Pascal, 1998
 
 ## Stack
 
